@@ -5,7 +5,7 @@ In groups of 4, find a data set that is broadly related to cities research or sp
 choose ENG data
 ## 1.2 choose columns
 Independent variable: PROP_TYPE	PROP_AGE_BAND	FLOOR_AREA_BAND	COUNCIL_TAX_BAND	IMD_BAND_ENG REGION	LI_FLAG CWI_FLAG PV_FLAG MAIN_HEAT_FUEL
-Dependent variable: Gcons2019~Gcons2005 Econs2019~Econs2005
+Dependent variable: Gcons2019-Gcons2005 Econs2019-Econs2005
 ## 1.3 Filling up vacancy
 Gcons和Econs都缺失：删除整行
 Gcons或Econs都缺失：填0
