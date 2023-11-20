@@ -18,5 +18,7 @@ Dependent variable: box
 # 3 Appropriate plots to communicate the distribution of key fields
 Dependent variable: frequency distribution
 # 4 Appropriate plots to illustrate the relationship between key fields
-all dependent variable ~ all independent variable
+all dependent variable ~ all independent variable  
+box or hist
 ![box](https://github.com/gordenleee/QM_Group_Work/blob/main/reference/1.png)
+![hist](https://github.com/gordenleee/QM_Group_Work/blob/main/reference/2.png)
