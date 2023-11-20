@@ -12,3 +12,10 @@ Gcons或Econs都缺失：填0
 Gcons和Econs有部分缺失：填该列的平均值
 ## 1.4 Changing data type
 PROP_TYPE COUNCIL_TAX_BAND REGION: object -> int64
+# 2 Summary statistics of key fields
+Independent variable: pie
+Dependent variable: box
+# 3 Appropriate plots to communicate the distribution of key fields
+Dependent variable: frequency distribution
+# 4 Appropriate plots to illustrate the relationship between key fields
+all dependent variable ~ all independent variable
