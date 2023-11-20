@@ -19,4 +19,4 @@ Dependent variable: box
 Dependent variable: frequency distribution
 # 4 Appropriate plots to illustrate the relationship between key fields
 all dependent variable ~ all independent variable
-![box](URL title)
+![box](reference/1.png)
