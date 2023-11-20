@@ -24,6 +24,6 @@ box or hist
 ![hist](https://github.com/gordenleee/QM_Group_Work/blob/main/reference/2.png)
 ## 5 Simple analyses relating to the data
 ## 待解决的问题
-如何评价categorical data与continuous data的相关性？
-重点是做好结果还是做好解释？
+如何评价categorical data与continuous data的相关性？  
+重点是做好结果还是做好解释？  
 多元线性回归效果不好的话是否考虑其他模型？
